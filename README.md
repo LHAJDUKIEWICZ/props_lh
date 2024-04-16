@@ -3,4 +3,4 @@ sprops_lh
 
 ## TODO SG: 
 
- - [ ] write who rules in the hood
+ - [x] write who rules in the hood
